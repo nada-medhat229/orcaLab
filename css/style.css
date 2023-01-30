@@ -8,6 +8,8 @@
   --white: #fff;
   --black: #000000;
   --icon-bg:#ddebff;
+  --foot-color:#1F2226;
+  --p-foot:#A2A2A2;
 }
 
 * {
@@ -361,9 +363,16 @@ header .btn-load {
   background-color: var(--icon-bg);
   border-radius: 6px;
 }
-/* .about-us .service-term p {
-  font-size: 14px;
-} */
+/* footer */
+footer{
+  background: var(--foot-color);
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: end;
+}
+footer p{
+  color: var(--p-foot);
+}
 @media (max-width: 1200px) {
 }
 
@@ -374,6 +383,9 @@ header .btn-load {
   
 .about-us .opacity-section ,
   .services .opacity-section {display: none;}
+  .img-app{
+    width: 100% !important;
+  }
 }
 @media (max-width: 575.98px) {
 }
