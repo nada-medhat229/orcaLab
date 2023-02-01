@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1640" height="461" viewBox="0 0 1640 461">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.011" y1="0.075" x2="0" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4388ef"/>
+      <stop offset="0.477" stop-color="#4480e6"/>
+      <stop offset="0.749" stop-color="#508dff"/>
+      <stop offset="1" stop-color="#6296fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.011" y1="0.925" x2="1" y2="0.053" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1.011" y1="0.075" x2="0" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2ba8e2"/>
+      <stop offset="0.477" stop-color="#2ba8e2"/>
+      <stop offset="0.749" stop-color="#63cdff"/>
+      <stop offset="1" stop-color="#54c9ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_16072" data-name="Rectangle 16072" d="M16,0H446a16,16,0,0,1,16,16V280a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" transform="translate(625 3961)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Rectangle_16070" data-name="Rectangle 16070" d="M16,0H310a0,0,0,0,1,0,0V250a16,16,0,0,1-16,16H16A16,16,0,0,1,0,250V16A16,16,0,0,1,16,0Z" transform="translate(432 3863)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Rectangle_16071" data-name="Rectangle 16071" d="M16,0H294a16,16,0,0,1,16,16V250a16,16,0,0,1-16,16H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" fill="url(#linear-gradient-3)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_59217" data-name="Group 59217" transform="translate(-140 -2715)">
+    <rect id="Rectangle_15636" data-name="Rectangle 15636" width="1640" height="461" rx="16" transform="translate(140 2715)" fill="url(#linear-gradient-4)"/>
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(0 -1065)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_1312" data-name="Ellipse 1312" cx="231" cy="231" r="231" transform="translate(625 3961)" fill="#fff" opacity="0.24"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-292 -1148)" clip-path="url(#clip-path-2)">
+      <circle id="Ellipse_1310" data-name="Ellipse 1310" cx="231" cy="231" r="231" transform="translate(280 3667)" fill="#fff" opacity="0.24"/>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(1470 2910)" clip-path="url(#clip-path-3)">
+      <circle id="Ellipse_1311" data-name="Ellipse 1311" cx="231" cy="231" r="231" fill="#fff" opacity="0.24"/>
+    </g>
+  </g>
+</svg>
